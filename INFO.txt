@@ -1,0 +1,5 @@
+Drawer personalizado
+ContextApi / Async Storage 
+Token - JWT
+FontAwesome para icones
+Paleta de cores padrão
